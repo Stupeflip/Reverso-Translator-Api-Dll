@@ -31,7 +31,7 @@
         KR,
         ES,
         FR,
-        HE, //Hebrew (   language)
+        HE,
         IT,
         JP,
         NE,
