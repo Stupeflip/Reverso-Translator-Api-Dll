@@ -1,5 +1,27 @@
 ﻿namespace ReversoTranslatorDll.Models
 {
+
+    /// <summary>
+    /// Country flags : 
+    /// GE : German
+    /// EN : English
+    /// AS : Arabic
+    /// CN : Chinese
+    /// KR : Korean
+    /// ES : Spanish
+    /// FR : French
+    /// HE : Hebrew
+    /// IT : Italian
+    /// JP : Japan
+    /// NE : Dutch
+    /// PL : Polish
+    /// PT : Portuguese
+    /// RO : Romanian
+    /// RU : Russian
+    /// SE : Swedish
+    /// TR : Turkish
+    /// UA : Ukrainian
+    /// </summary>
     public enum Language
     {
         GE,
@@ -9,7 +31,7 @@
         KR,
         ES,
         FR,
-        HE, //Hebrew (language)
+        HE, //Hebrew (   language)
         IT,
         JP,
         NE,
